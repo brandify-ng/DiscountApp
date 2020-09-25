@@ -1,0 +1,18 @@
+form{
+    width: 40%;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+#btn{
+    background-color: orangered;
+    color: white;
+}
+
+::-webkit-input-placeholder{
+    padding-left: 20px;
+}
